@@ -1,0 +1,21 @@
+#time{
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif, 
+}
+
+#score{
+    font-weight: bolder;
+}
+body{
+    background-image: url("hands-sketching.gif");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+canvas{
+border: 3px solid rgb(0, 238, 255);
+     border-radius: 10px;
+     border-width: 9px;
+
+}
